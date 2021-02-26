@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+164
+"COMPAREAGESOFT V1.0
+Makers: Juan Orjuela - Juan Buitrago - Cristian Arley
+Description: This software compare the birth year of two persons and show who is older"
+4
+1
+39
+"Enter the birth year of first person "
+5
+1
+8
+v_birth1
+4
+1
+40
+"Enter the birth year of second person "
+5
+1
+8
+v_birth2
+7
+0
+1
+35
+v_birth1 > 2021 OR v_birth2  > 2021
+6
+2
+6
+v_age1
+15
+2021 - v_birth1
+6
+v_age2
+15
+2021 - v_birth2
+7
+0
+1
+15
+v_age1 = v_age2
+7
+0
+1
+15
+v_age1 < v_age2
+4
+1
+29
+" The youngest is" , v_birth2
+13
+4
+1
+29
+" The youngest is" , v_birth1
+13
+13
+4
+1
+23
+"The both are same age"
+13
+13
+4
+1
+74
+"ERROR: Some of the years typed are wrong - both should be less than 2021"
+13
+1

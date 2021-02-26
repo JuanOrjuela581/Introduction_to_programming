@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+105
+" SOFT-SUM V1.0
+Maker: Juan Pablo Orjuela
+Description: This software calculate a sum by three numbers "
+4
+1
+26
+" input the first number "
+5
+1
+7
+number1
+4
+1
+27
+" input the second number "
+5
+1
+7
+number2
+4
+1
+22
+" input number three "
+5
+1
+7
+number3
+6
+1
+3
+sum
+27
+number1 + number2 + number3
+4
+1
+37
+" El resultado de la suma es: ", sum 
+1

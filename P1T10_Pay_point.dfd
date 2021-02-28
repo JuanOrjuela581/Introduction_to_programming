@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+222
+"ParadisePayment V1.0
+Maker: Juan Orjuela
+Description: This software calculate the value of four products and add the IVA - the customer can observe the value of the products - the value of IVA and the total to be paid."
+4
+1
+76
+" Welcome to the supermarket paradise enter the value of the first product "
+5
+1
+8
+v_value1
+4
+1
+41
+" Enter the value of the second product "
+5
+1
+9
+v_value2 
+4
+1
+40
+" Enter the value of the third product "
+5
+1
+8
+v_value3
+4
+1
+41
+" Enter the value of the fourth product "
+5
+1
+8
+v_value4
+7
+0
+1
+60
+v_value1 < 1 OR v_value2 < 1 OR v_value3 < 1 OR v_value4 < 1
+6
+3
+5
+v_iva
+97
+(19 * v_value1  / 100) + (19 * v_value2  / 100) + (19 * v_value3  / 100) + (19 * v_value4  / 100)
+15
+v_valueproducts
+45
+ v_value1 +  v_value2 +  v_value3 +  v_value4
+12
+v_totalvalue
+23
+v_iva + v_valueproducts
+4
+1
+228
+" Gracias por su compra - el IVA de su compra es es:", v_iva ,   "///  El valor de sus productos sin IVA es:", v_valueproducts ,  "/// El valor total de su compra es:", v_totalvalue ,  "//// Gracias por su compra vuelva pronto" 
+13
+4
+1
+58
+" ERROR: The value of the products cannot be less than 1 "
+13
+1

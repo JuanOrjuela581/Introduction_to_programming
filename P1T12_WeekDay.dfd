@@ -1,0 +1,100 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+146
+" WeekdaySoft V1.0 - Maker: Juan Orjuela- Description: In this software you enter a number of a day and the software show you the day in letters "
+4
+1
+30
+" Enter the number of the day"
+5
+1
+5
+v_day
+7
+0
+1
+22
+v_day > 7 OR v_day < 1
+7
+0
+1
+9
+v_day = 1
+7
+0
+1
+9
+v_day = 2
+7
+0
+1
+8
+v_day =3
+7
+0
+1
+9
+v_day = 4
+7
+0
+1
+9
+v_day = 5
+7
+0
+1
+9
+v_day = 6
+4
+1
+19
+" Today is Sunday "
+13
+4
+1
+21
+" Today is Saturday "
+13
+13
+4
+1
+19
+" Today is Friday "
+13
+13
+4
+1
+21
+" Today is Thursday "
+13
+13
+4
+1
+22
+" Today is Wednesday "
+13
+13
+4
+1
+20
+" Today is Thuesday"
+13
+13
+4
+1
+20
+" Today is Monday " 
+13
+13
+4
+1
+59
+"ERR: The number does not correspond to a day of the week "
+13
+1

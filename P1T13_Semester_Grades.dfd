@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+124
+"SemesterGradesSoft V1.0 - Maker: Juan Pablo Orjuela - Description: This software calculate the final grade of the semester"
+4
+1
+21
+"Enter your Grades:" 
+5
+1
+37
+v_note1 , v_note2 , v_note3 , v_note4
+7
+0
+1
+116
+v_note1 > 5 OR v_note1 < 0 OR v_note2 > 5 OR v_note2 < 0 OR v_note3 > 5 OR v_note3 < 0 OR v_note4 > 5 OR v_note4 < 0
+6
+1
+12
+v_final_note
+71
+(v_note1 * 0.2) + (v_note2 * 0.25) + (v_note3 * 0.25) + (v_note4 * 0.3)
+4
+1
+56
+" Your final grade of the semestrer is:" , v_final_note 
+13
+4
+1
+87
+"ERR: The value of the Califications cannot be less than 0 and cannot be higher than 5"
+13
+1

@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+149
+"AgeofPeopleSoft V1.0 - Maker: Juan Pablo Orjuela - Description: This software show if you are child - adolescent - adult - older adult or matusalen"
+4
+1
+16
+"enter your age"
+5
+1
+5
+v_age
+7
+0
+1
+10
+v_age <= 0
+7
+0
+1
+25
+v_age >= 1 AND v_age <=12
+7
+0
+1
+25
+v_age >=13 AND v_age < 18
+7
+0
+1
+25
+v_age >= 18 AND v_age <45
+7
+0
+1
+24
+v_age >=45 AND v_age <90
+4
+1
+21
+" You are matusalen "
+13
+4
+1
+25
+" You are a older adult "
+13
+13
+4
+1
+19
+" You are a adult "
+13
+13
+4
+1
+24
+" you are a adolescent "
+13
+13
+4
+1
+19
+" You are a child "
+13
+13
+4
+1
+47
+"ERR: Your age cannot be less than 1 years old"
+13
+1

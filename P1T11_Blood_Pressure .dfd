@@ -15,8 +15,8 @@ V_Systolic, V_Diastolic
 7
 0
 1
-70
-V_Systolic<80 AND V_Diastolic<40 OR V_Systolic>180 AND V_Diastolic>120
+68
+V_Systolic<80 OR V_Diastolic<50 OR V_Systolic>180 OR V_Diastolic>120
 7
 0
 1
@@ -25,13 +25,17 @@ V_Systolic<=120 AND V_Diastolic<=80
 7
 0
 1
-72
-V_Systolic>120 AND V_Systolic<=139 OR V_Diastolic>80 AND V_Diastolic<=89
+73
+V_Systolic>120 AND V_Systolic<=139 AND V_Diastolic>80 AND V_Diastolic<=89
 7
 0
 1
-74
-V_Systolic>=140 AND V_Systolic<=159 OR V_Diastolic>=90 AND V_Diastolic<=99
+75
+V_Systolic>=140 AND V_Systolic<=159 AND V_Diastolic>=90 AND V_Diastolic<=99
+4
+1
+24
+"ERR: Calibration error"
 13
 4
 1
@@ -55,6 +59,6 @@ V_Systolic>=140 AND V_Systolic<=159 OR V_Diastolic>=90 AND V_Diastolic<=99
 1
 183
 "ERR:the software does not accept systolic pressure values lower than 80 and higher than 180.
-the software does not accept diastolic pressure values lower than 40 and higher than 120"
+the software does not accept diastolic pressure values lower than 50 and higher than 120"
 13
 1

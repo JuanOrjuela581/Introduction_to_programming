@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+112
+" LargestNumbersSoft - Maker: Juan Pablo Orjuela - Description: this software calculate that number is largest "
+4
+1
+22
+" Enter the numbers: "
+5
+1
+33
+v_number1 , v_number2 , v_number3
+7
+0
+1
+47
+v_number1 = v_number2 AND v_number1 = v_number3
+7
+0
+1
+48
+v_number1 > v_number2  AND v_number1 > v_number3
+7
+0
+1
+48
+v_number2 > v_number1  AND v_number2 > v_number3
+4
+1
+37
+" The largest number is " , v_number3
+13
+4
+1
+37
+" The largest number is " , v_number2
+13
+13
+4
+1
+37
+" The largest number is " , v_number1
+13
+13
+4
+1
+30
+" The three numbers are same "
+13
+1

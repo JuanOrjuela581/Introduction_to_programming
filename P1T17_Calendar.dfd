@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+163
+" CalendarSoft V1.0 Maker: Juan Pablo Orjuela - Description: In this software you can enter the number of the month and the software say many days have the month "
+4
+1
+33
+"Enter the number of the month: "
+5
+1
+7
+v_month
+7
+0
+1
+27
+v_month < 1 OR v_month > 12
+7
+0
+1
+11
+v_month = 2
+7
+0
+1
+118
+v_month = 1 OR v_month = 3 OR v_month = 4 OR v_month = 5 OR v_month = 7 OR v_month = 8 OR v_month = 10 OR v_month = 12
+4
+1
+25
+"This month have 30 days"
+13
+4
+1
+27
+" This month have 31 days "
+13
+13
+4
+1
+28
+"This month have 28/29 days"
+13
+13
+4
+1
+42
+"ERR: The number must be between 1 and 12"
+13
+1

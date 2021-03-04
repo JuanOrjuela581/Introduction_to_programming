@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+175
+" VolumenOfCilinderSoft V1.0___Maker: Juan Pablo Orjuela___Description: You can enter the radius and height of the cilinder and the software calculate the volume of cilinder "
+4
+1
+49
+" Enter the value of the radius in centimeters: "
+5
+1
+8
+v_radius
+4
+1
+49
+" Enter the value of the heihgt in centimeters: "
+5
+1
+8
+v_height
+7
+0
+1
+28
+v_radius < 0 OR v_height < 0
+6
+1
+9
+v_volumen
+37
+(3.1416 * (v_radius ^ 2 ) * v_height)
+4
+1
+49
+" The volumen is: " , v_volumen , " centimeters "
+13
+4
+1
+43
+"ERR: The values cannot be less than zero "
+13
+1

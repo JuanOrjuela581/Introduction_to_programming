@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+168
+"SalarySoft V1.0___Maker: Juan Pablo Orjuela____Description: This software calculate the salary of an employee taking the salary hired and the days worked in the motnh"
+4
+1
+101
+" Enter the number of the days that you work in the month (cannot be less than 0 or greater than 30)"
+5
+1
+6
+v_days
+4
+1
+39
+" Enter your salary in Colombian pesos"
+5
+1
+8
+v_salary
+7
+0
+1
+25
+v_days < 0 OR v_days > 30
+7
+0
+1
+13
+v_salary <= 0
+6
+1
+7
+v_total
+24
+(v_salary / 30) * v_days
+4
+1
+63
+"Your salary of this days is: " , v_total , " Colombian pesos "
+13
+4
+1
+40
+"ERR: Your salary cannot be less than 0"
+13
+13
+4
+1
+76
+"ERR: The number of the days worked cannot be less than 0 or higher than 30"
+13
+1

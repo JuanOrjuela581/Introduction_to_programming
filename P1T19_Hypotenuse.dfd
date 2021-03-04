@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+168
+" HypotenuseSoft V 1.0____Maker: Juan Pablo Orjuela___Description: This software calculate the hypotenuse of a triangle - You should introduce the values of the legs"
+4
+1
+53
+" Enter the value of the leg adjacent in centimeters"
+5
+1
+7
+v_leg_a
+4
+1
+54
+" Enter the value of the leg opposite in centimeters "
+5
+1
+7
+v_leg_o
+7
+0
+1
+26
+v_leg_a < 0 OR v_leg_o < 0
+6
+1
+12
+v_hypotenuse
+34
+sqrt ( v_leg_a ^ 2 + v_leg_o ^ 2 )
+4
+1
+67
+"The value of the hypotenuse is: " , v_hypotenuse , " centimeters "
+13
+4
+1
+55
+" ERR: The value of the legs cannot be less than zero "
+13
+1

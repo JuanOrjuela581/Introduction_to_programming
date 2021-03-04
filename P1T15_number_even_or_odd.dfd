@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+131
+" PrimeNumbersSoft - Maker: Juan Pablo Orjuela - Description: This software calculate if the number that you enter is pair or odd "
+4
+1
+26
+"Please enter the number:"
+5
+1
+5
+v_num
+6
+1
+8
+v_result
+11
+v_num mod 2
+7
+1
+1
+12
+v_result = 0
+4
+1
+22
+" This number is pair"
+13
+4
+1
+22
+" This number is odd "
+13
+1

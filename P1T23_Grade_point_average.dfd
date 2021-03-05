@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+115
+" Grade average v1.0___Maker: Juan Orjuela__Description: this  software calculate the average grade of the course "
+4
+1
+30
+" Input total of the students"
+5
+1
+16
+v_total_students
+7
+0
+1
+21
+v_total_students <= 0
+6
+2
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+16
+v_total_students
+1
+1
+1
+4
+1
+58
+" Input the grade 1- grade2 - grade3 for the student " , i
+5
+1
+30
+v_grade1 , v_grade2 , v_grade3
+6
+2
+12
+v_finalgrade
+54
+(v_grade1 * 0.2) + (v_grade2 * 0.3) + (v_grade3 * 0.5)
+5
+v_sum
+20
+v_sum + v_finalgrade
+10
+6
+1
+9
+v_average
+24
+v_sum / v_total_students
+4
+1
+60
+" For the total of the students the average is " , v_average
+13
+4
+1
+63
+" ERR: the total of the students should be greather than zero "
+13
+1

@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+150
+" SumNnumbersSoft V1.0___Maker: Juan Pablo Orjuela___Description: This software show the total and the average sum for N numbers using the cycle for "
+4
+1
+27
+" Input the total numbers "
+5
+1
+15
+v_total_numbers
+7
+0
+1
+20
+v_total_numbers <= 0
+6
+2
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+15
+v_total_numbers
+1
+1
+1
+4
+1
+24
+" Input the number " , i
+5
+1
+8
+v_number
+6
+1
+5
+v_sum
+16
+v_sum + v_number
+10
+6
+1
+9
+v_average
+23
+v_sum / v_total_numbers
+4
+1
+95
+" For " , v_total_numbers, "  numbers the sum is " , v_sum , " and the average is " , v_average
+13
+4
+1
+55
+" ERR: The total numbers sholud be greather than zero "
+13
+1

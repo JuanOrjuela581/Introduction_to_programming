@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+135
+" SoftSalary V1.0___Maker: Juan Orjuela__Description: this software calculate the total salary and the highest salary by N employess- "
+4
+1
+37
+" Enter the number of the employees "
+5
+1
+13
+v_total_emplo
+7
+0
+1
+18
+v_total_emplo <= 0
+6
+3
+16
+v_average_salary
+1
+0
+14
+v_total_salary
+1
+0
+9
+v_highest
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+13
+v_total_emplo
+1
+1
+1
+4
+1
+47
+" Enter the salary of the: " , i , " employee "
+5
+1
+14
+v_gross_salary
+4
+1
+50
+" Enter the worked days of the " , i , " Employee"
+5
+1
+11
+v_work_days
+6
+2
+8
+v_salary
+33
+(v_gross_salary/30) * v_work_days
+14
+v_total_salary
+25
+v_total_salary + v_salary
+7
+0
+1
+21
+v_salary > v_highest 
+13
+6
+1
+9
+v_highest
+8
+v_salary
+13
+10
+6
+1
+9
+v_average
+30
+v_total_salary / v_total_emplo
+4
+1
+130
+" The average salary is: " , v_average , " And the total salary is: " , v_total_salary, " And the highets salary is: " , v_highest
+13
+4
+1
+55
+" The number entered cannot be less or same than zero "
+13
+1

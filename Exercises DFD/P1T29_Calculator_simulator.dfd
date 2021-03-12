@@ -1,0 +1,296 @@
+ Dfd (c)
+1
+1
+6
+0
+0
+4
+1
+126
+" SoftCalculator V1.0___Maker: Juan Orjuela___Description: this software simulate a calculator ( sum - substract- mult-div ) "
+12
+1
+15
+P_VALIDA_OPTION
+1
+8
+V_OPTION
+9
+1
+13
+V_OPTION != 0
+7
+0
+1
+12
+V_OPTION = 1
+7
+0
+1
+12
+V_OPTION = 2
+7
+0
+1
+12
+V_OPTION = 3
+12
+1
+10
+P_DIVISION
+0
+13
+12
+1
+8
+P_MULTIP
+0
+13
+13
+12
+1
+10
+P_SUBTRACT
+0
+13
+13
+12
+1
+5
+P_SUM
+0
+13
+12
+1
+15
+P_VALIDA_OPTION
+1
+8
+V_OPTION
+11
+1
+2
+1
+5
+P_SUM
+0
+1
+54
+in this subprogram calculate the sum for many numbers 
+4
+1
+52
+" SUM enter the total numbers that do you want sum "
+5
+1
+11
+v_total_num
+6
+1
+5
+v_sum
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+11
+v_total_num
+1
+1
+1
+4
+1
+24
+" Enter the number " , i
+5
+1
+8
+v_number
+6
+1
+5
+v_sum
+16
+v_sum + v_number
+10
+4
+1
+29
+" The total sum is: " , v_sum
+3
+2
+1
+15
+P_VALIDA_OPTION
+1
+8
+V_OPTION
+1
+57
+in this subprogram validate the option in the calculator 
+4
+1
+76
+" Input your option: (1-sum |-| 2-rest |-| 3-mult |-| 4-div |-| 0 to exit) "
+5
+1
+8
+v_option
+9
+1
+85
+v_option != 1 AND v_option != 2 AND v_option != 3 AND v_option != 4 AND v_option != 0
+4
+1
+101
+" ERR: your option dont exist - input again your option ( 1-sum | 2-rest | 3-mult | 4-div | 0-exit) "
+5
+1
+8
+v_option
+11
+3
+2
+1
+10
+P_SUBTRACT
+0
+1
+59
+in this sub-program calculate the substract for two numbers
+4
+1
+37
+" SUBSTRACT- input the first number "
+5
+1
+6
+v_num1
+4
+1
+38
+" SUBSTRACT- input the second number "
+5
+1
+6
+v_num2
+6
+1
+11
+v_substract
+15
+v_num1 - v_num2
+4
+1
+35
+" the substract is: " , v_substract
+3
+2
+1
+8
+P_MULTIP
+0
+1
+62
+in this subprogram realize the multiplication for many numbers
+4
+1
+64
+" MULTIP enter the total numbers that do you want multiplicate "
+5
+1
+11
+v_total_num
+6
+1
+8
+v_multip
+1
+1
+8
+1
+1
+i
+1
+1
+1
+1
+11
+v_total_num
+1
+1
+1
+4
+1
+24
+" Enter the number " , i
+5
+1
+8
+v_number
+6
+1
+8
+v_multip
+19
+v_multip * v_number
+10
+4
+1
+37
+" the multiplication is: " , v_multip
+3
+2
+1
+10
+P_DIVISION
+0
+1
+58
+this subprogram calculate the division between two numbers
+4
+1
+39
+" DIVISION input the numerator number "
+5
+1
+11
+v_numerator
+4
+1
+29
+" input the divisor number: "
+5
+1
+9
+v_divisor
+9
+1
+13
+v_divisor = 0
+4
+1
+74
+" ERR: the divisor number cannot be zero - input again the divisor number"
+5
+1
+9
+v_divisor
+11
+6
+1
+10
+v_division
+23
+v_numerator / v_divisor
+4
+1
+40
+" The division result is: " , v_division
+3

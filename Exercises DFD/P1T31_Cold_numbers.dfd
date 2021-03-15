@@ -1,0 +1,123 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+135
+" ColdHotNumber V1.0___Maker: Juan Orjuela___Description: this Mathgame try to simulate Hot and Cold find number - you have 5 intents "
+6
+2
+12
+v_sys_number
+17
+random (100) + 1 
+9
+v_intents
+1
+5
+12
+1
+14
+p_Input_number
+1
+13
+v_user_number
+9
+1
+48
+v_sys_number != v_user_number AND v_intents > 0 
+6
+2
+9
+v_intents
+14
+v_intents - 1 
+5
+v_dif
+28
+v_sys_number - v_user_number
+7
+0
+1
+14
+abs(v_dif) <=5
+7
+0
+1
+10
+v_dif > 0 
+4
+1
+11
+" cold up "
+13
+4
+1
+13
+" cold down "
+13
+13
+4
+1
+16
+" your are hot "
+13
+12
+1
+14
+p_Input_number
+1
+13
+v_user_number
+11
+7
+0
+1
+14
+v_intents > 0 
+4
+1
+60
+" sorry you lost the game - the number was: " , v_sys_number
+13
+4
+1
+56
+" congratulations you won the game  - you are the best "
+13
+1
+2
+1
+14
+p_Input_number
+1
+13
+v_user_number
+1
+46
+this subprogram returns the user valid number 
+4
+1
+36
+" input a number between 1 and 100 "
+5
+1
+13
+v_user_Number
+9
+1
+40
+v_user_Number < 1 OR v_user_Number > 100
+4
+1
+82
+" ERR : your number should be inside between 1 and 100 - input again your number "
+5
+1
+13
+v_user_Number
+11
+3

@@ -3,7 +3,7 @@ package usta.fis;
  *AUTHORS: Nicolás Andrés Ramírez Calderón
  *Cristhian Arley Susano Fernández
  *Juan Pablo Orjuela
- *DATE: 2021-March-25
+ *DATE: 2021-March-26
  *DESCRIPTION: 1st test grade, This program calculates the height average of 5 children
  */
 import java.util.Scanner;

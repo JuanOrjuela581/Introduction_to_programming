@@ -1,0 +1,16 @@
+C:\visual studio\areaFigura\bin\Debug\net5.0\areaFigura.exe
+C:\visual studio\areaFigura\bin\Debug\net5.0\areaFigura.deps.json
+C:\visual studio\areaFigura\bin\Debug\net5.0\areaFigura.runtimeconfig.json
+C:\visual studio\areaFigura\bin\Debug\net5.0\areaFigura.runtimeconfig.dev.json
+C:\visual studio\areaFigura\bin\Debug\net5.0\areaFigura.dll
+C:\visual studio\areaFigura\bin\Debug\net5.0\ref\areaFigura.dll
+C:\visual studio\areaFigura\bin\Debug\net5.0\areaFigura.pdb
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.csproj.AssemblyReference.cache
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.AssemblyInfoInputs.cache
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.AssemblyInfo.cs
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.csproj.CoreCompileInputs.cache
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.dll
+C:\visual studio\areaFigura\obj\Debug\net5.0\ref\areaFigura.dll
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.pdb
+C:\visual studio\areaFigura\obj\Debug\net5.0\areaFigura.genruntimeconfig.cache

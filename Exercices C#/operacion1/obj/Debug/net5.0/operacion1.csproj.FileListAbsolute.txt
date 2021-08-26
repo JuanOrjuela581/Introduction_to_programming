@@ -1,0 +1,16 @@
+C:\visual studio\operacion1\bin\Debug\net5.0\operacion1.exe
+C:\visual studio\operacion1\bin\Debug\net5.0\operacion1.deps.json
+C:\visual studio\operacion1\bin\Debug\net5.0\operacion1.runtimeconfig.json
+C:\visual studio\operacion1\bin\Debug\net5.0\operacion1.runtimeconfig.dev.json
+C:\visual studio\operacion1\bin\Debug\net5.0\operacion1.dll
+C:\visual studio\operacion1\bin\Debug\net5.0\ref\operacion1.dll
+C:\visual studio\operacion1\bin\Debug\net5.0\operacion1.pdb
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.csproj.AssemblyReference.cache
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.AssemblyInfoInputs.cache
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.AssemblyInfo.cs
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.csproj.CoreCompileInputs.cache
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.dll
+C:\visual studio\operacion1\obj\Debug\net5.0\ref\operacion1.dll
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.pdb
+C:\visual studio\operacion1\obj\Debug\net5.0\operacion1.genruntimeconfig.cache

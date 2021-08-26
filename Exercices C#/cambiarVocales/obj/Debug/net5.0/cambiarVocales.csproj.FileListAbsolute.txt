@@ -1,0 +1,16 @@
+C:\visual studio\cambiarVocales\bin\Debug\net5.0\cambiarVocales.exe
+C:\visual studio\cambiarVocales\bin\Debug\net5.0\cambiarVocales.deps.json
+C:\visual studio\cambiarVocales\bin\Debug\net5.0\cambiarVocales.runtimeconfig.json
+C:\visual studio\cambiarVocales\bin\Debug\net5.0\cambiarVocales.runtimeconfig.dev.json
+C:\visual studio\cambiarVocales\bin\Debug\net5.0\cambiarVocales.dll
+C:\visual studio\cambiarVocales\bin\Debug\net5.0\ref\cambiarVocales.dll
+C:\visual studio\cambiarVocales\bin\Debug\net5.0\cambiarVocales.pdb
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.csproj.AssemblyReference.cache
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.AssemblyInfoInputs.cache
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.AssemblyInfo.cs
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.csproj.CoreCompileInputs.cache
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.dll
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\ref\cambiarVocales.dll
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.pdb
+C:\visual studio\cambiarVocales\obj\Debug\net5.0\cambiarVocales.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\visual studio\tablas_c#\bin\Debug\net5.0\tablas_c#.exe
+C:\visual studio\tablas_c#\bin\Debug\net5.0\tablas_c#.deps.json
+C:\visual studio\tablas_c#\bin\Debug\net5.0\tablas_c#.runtimeconfig.json
+C:\visual studio\tablas_c#\bin\Debug\net5.0\tablas_c#.runtimeconfig.dev.json
+C:\visual studio\tablas_c#\bin\Debug\net5.0\tablas_c#.dll
+C:\visual studio\tablas_c#\bin\Debug\net5.0\ref\tablas_c#.dll
+C:\visual studio\tablas_c#\bin\Debug\net5.0\tablas_c#.pdb
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.csproj.AssemblyReference.cache
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.AssemblyInfoInputs.cache
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.AssemblyInfo.cs
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.csproj.CoreCompileInputs.cache
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.dll
+C:\visual studio\tablas_c#\obj\Debug\net5.0\ref\tablas_c#.dll
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.pdb
+C:\visual studio\tablas_c#\obj\Debug\net5.0\tablas_c#.genruntimeconfig.cache

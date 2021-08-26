@@ -1,0 +1,16 @@
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.csproj.AssemblyReference.cache
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.AssemblyInfoInputs.cache
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.AssemblyInfo.cs
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.csproj.CoreCompileInputs.cache
+C:\visual studio\diagramaDia\bin\Debug\net5.0\diagramaDia.exe
+C:\visual studio\diagramaDia\bin\Debug\net5.0\diagramaDia.deps.json
+C:\visual studio\diagramaDia\bin\Debug\net5.0\diagramaDia.runtimeconfig.json
+C:\visual studio\diagramaDia\bin\Debug\net5.0\diagramaDia.runtimeconfig.dev.json
+C:\visual studio\diagramaDia\bin\Debug\net5.0\diagramaDia.dll
+C:\visual studio\diagramaDia\bin\Debug\net5.0\ref\diagramaDia.dll
+C:\visual studio\diagramaDia\bin\Debug\net5.0\diagramaDia.pdb
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.dll
+C:\visual studio\diagramaDia\obj\Debug\net5.0\ref\diagramaDia.dll
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.pdb
+C:\visual studio\diagramaDia\obj\Debug\net5.0\diagramaDia.genruntimeconfig.cache

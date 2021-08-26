@@ -1,0 +1,16 @@
+C:\visual studio\operacion2\bin\Debug\net5.0\operacion2.exe
+C:\visual studio\operacion2\bin\Debug\net5.0\operacion2.deps.json
+C:\visual studio\operacion2\bin\Debug\net5.0\operacion2.runtimeconfig.json
+C:\visual studio\operacion2\bin\Debug\net5.0\operacion2.runtimeconfig.dev.json
+C:\visual studio\operacion2\bin\Debug\net5.0\operacion2.dll
+C:\visual studio\operacion2\bin\Debug\net5.0\ref\operacion2.dll
+C:\visual studio\operacion2\bin\Debug\net5.0\operacion2.pdb
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.csproj.AssemblyReference.cache
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.AssemblyInfoInputs.cache
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.AssemblyInfo.cs
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.csproj.CoreCompileInputs.cache
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.dll
+C:\visual studio\operacion2\obj\Debug\net5.0\ref\operacion2.dll
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.pdb
+C:\visual studio\operacion2\obj\Debug\net5.0\operacion2.genruntimeconfig.cache

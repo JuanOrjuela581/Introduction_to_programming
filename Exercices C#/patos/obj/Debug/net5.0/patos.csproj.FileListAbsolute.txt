@@ -1,0 +1,16 @@
+C:\visual studio\patos\obj\Debug\net5.0\patos.csproj.AssemblyReference.cache
+C:\visual studio\patos\obj\Debug\net5.0\patos.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio\patos\obj\Debug\net5.0\patos.AssemblyInfoInputs.cache
+C:\visual studio\patos\obj\Debug\net5.0\patos.AssemblyInfo.cs
+C:\visual studio\patos\obj\Debug\net5.0\patos.csproj.CoreCompileInputs.cache
+C:\visual studio\patos\bin\Debug\net5.0\patos.exe
+C:\visual studio\patos\bin\Debug\net5.0\patos.deps.json
+C:\visual studio\patos\bin\Debug\net5.0\patos.runtimeconfig.json
+C:\visual studio\patos\bin\Debug\net5.0\patos.runtimeconfig.dev.json
+C:\visual studio\patos\bin\Debug\net5.0\patos.dll
+C:\visual studio\patos\bin\Debug\net5.0\ref\patos.dll
+C:\visual studio\patos\bin\Debug\net5.0\patos.pdb
+C:\visual studio\patos\obj\Debug\net5.0\patos.dll
+C:\visual studio\patos\obj\Debug\net5.0\ref\patos.dll
+C:\visual studio\patos\obj\Debug\net5.0\patos.pdb
+C:\visual studio\patos\obj\Debug\net5.0\patos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\bin\Debug\net5.0\produccionLeche.exe
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\bin\Debug\net5.0\produccionLeche.deps.json
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\bin\Debug\net5.0\produccionLeche.runtimeconfig.json
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\bin\Debug\net5.0\produccionLeche.runtimeconfig.dev.json
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\bin\Debug\net5.0\produccionLeche.dll
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\bin\Debug\net5.0\ref\produccionLeche.dll
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\bin\Debug\net5.0\produccionLeche.pdb
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.csproj.AssemblyReference.cache
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.AssemblyInfoInputs.cache
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.AssemblyInfo.cs
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.csproj.CoreCompileInputs.cache
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.dll
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\ref\produccionLeche.dll
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.pdb
+C:\Users\Juan\RiderProjects\produccionLeche\produccionLeche\obj\Debug\net5.0\produccionLeche.genruntimeconfig.cache
